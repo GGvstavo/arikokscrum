@@ -1,0 +1,25 @@
+{
+    "tasks": [
+      { "id": 1, 
+        "title": "Tarea nro 1",
+        "responsible": "steve",
+        "state": "to-do",
+        "created": 1661206780,
+        "deadline": 1661379580
+     },
+     { "id": 2, 
+        "title": "Tarea nro 2",
+        "responsible": "steve",
+        "state": "in-progress",
+        "created": 1661206780,
+        "deadline": 1661379580
+     },
+     { "id": 3, 
+        "title": "Tarea nro 3",
+        "responsible": "steve",
+        "state": "done",
+        "created": 1661206780,
+        "deadline": 1661379580
+     },
+    ]
+  }
