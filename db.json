@@ -1,23 +1,44 @@
 {
     "tasks": [
       { "id": 1, 
-        "title": "Tarea nro 1",
-        "responsible": "steve",
+        "title": "Validar ingreso de tareas por formulario",
+        "responsible": "Steve",
         "state": "to-do",
         "created": 1661206780,
         "deadline": 1661379580
      },
      { "id": 2, 
-        "title": "Tarea nro 2",
-        "responsible": "steve",
+        "title": "Dar funcionalidad al formulario",
+        "responsible": "Bill",
         "state": "in-progress",
         "created": 1661206780,
         "deadline": 1661379580
      },
      { "id": 3, 
-        "title": "Tarea nro 3",
-        "responsible": "steve",
+        "title": "Dar estilos al sitio",
+        "responsible": "Jeff",
         "state": "done",
+        "created": 1661206780,
+        "deadline": 1661379580
+     },
+     { "id": 4, 
+        "title": "Crear repositorio para el proyecto",
+        "responsible": "Steve",
+        "state": "done",
+        "created": 1661206780,
+        "deadline": 1661379580
+     },
+     { "id": 5, 
+        "title": "Crear README.md en github",
+        "responsible": "Jeff",
+        "state": "done",
+        "created": 1661206780,
+        "deadline": 1661379580
+     },
+     { "id": 6, 
+        "title": "Crear estilos light-mode",
+        "responsible": "Bill",
+        "state": "to-do",
         "created": 1661206780,
         "deadline": 1661379580
      }
